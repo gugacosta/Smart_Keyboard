@@ -1,0 +1,145 @@
+Em um mundo cada vez mais conectado, com um fluxo constante de dados e informações, é impossível imaginar uma empresa ou startup que não esteja imersa no ecossistema do Big Data: podemos defini-lo como uma quantidade volumosa de dados variados e complexos que crescem exponencialmente com o tempo e não podem ser gerenciados apenas por um software tradicional de processamento simples. 
+
+Com a quantidade de dados ao nosso redor aumentando a cada dia, faz parte das atribuições desta área auxiliar no tratamento desse alto fluxo de informações. Por isso, obviamente, o campo tornou-se parte fundamental do processo estratégico de todo time de Data Science e de gestores no âmbito empresarial. 
+
+E é justamente neste cenário que surge a questão: como captar e processar um grande volume de dados com a rapidez que o mundo digital exige? 
+
+Hoje, além da sinergia entre o Analista e o Cientista de Dados, para alcançar o sucesso pleno do seu produto ou serviço, faz-se necessária, também, a atuação de profissionais ultra especializados em Big Data como o Engenheiro de Dados. 
+
+O que um Engenheiro de Dados faz na prática?
+Para responder essa pergunta, a Awari conversou com Rodrigo Sanches, Engenheiro de Dados da VR Benefícios, empresa que está presente no dia a dia de milhares de brasileiros, desenvolvendo soluções em benefícios para alimentação, saúde, transporte e cultura. 
+
+Com isso, neste artigo vamos entender como é o dia a dia de um Data Engineer e as responsabilidades dele no universo de Data Science. Vamos lá?
+
+Qual a rotina de um Engenheiro de Dados?
+Rodrigo: “Basicamente, ele é responsável pela plataforma de dados. Ou seja, é o cara que vai disponibilizar os dados no início de um projeto. Como faz isso? Ele mapeia e capta os dados não estruturados de diversas fontes, o que a gente chama de Big Data.
+
+Após captar todos esses dados, que podem ser de redes sociais como o Twitter, Facebook ou até mesmo um CRM (Customer Relationship Management) da empresa, ele os transporta para um repositório chamado de Data Lake. 
+
+Para exemplificar o que é um Data Lake: Imagine um lago, dentro dele terá água, peixes, mas também vão ter galhos e outras coisas. Neste local, há uma mistura de arquivos, tabelas, tudo em um repositório central. Desta maneira, a responsabilidade central do Engenheiro de Dados dele é essa: pegar os dados da origem e colocá-lo em um repositório centralizado.” 
+
+Ferramentas utilizadas no dia a dia
+Rodrigo: “No dia a dia nós utilizamos mais as linguagens de programação Python e SQL. Em determinadas situações, usa-se também um Escala, dependendo da conexão que você quer. Normalmente, utilizamos as ferramentas ligadas à nuvem para fazer *ETL, como o Glue (AWS) ou Azure Data Factory (Microsoft). Há outras grandes ferramentas como o Power BI, que eu tenho mais experiência, e que é umas das líderes do mercado há anos. São dezenas de ferramentas, mas acredito que o ponto principal é o profissional ter domínio de pelo menos uma.” 
+
+Assinatura Awari | Cursos Data Science
+*A sigla ETL significa Extração, Transformação e Carga (em inglês Extract, Transform and Load) e visa trabalhar com toda a parte de extração de dados de fontes externas.
+
+Desenvolvimento de projetos: como o Engenheiro de Dados atua? 
+Rodrigo: “Normalmente, o Engenheiro de Dados é o primeiro nessa escala. É o cara que vai trazer o dado bruto para dentro do Data Lake, vai buscá-lo para a fonte. Desta etapa em diante, temos os Analistas e Cientistas de Dados, que participarão da etapa de limpeza e transformação dos dados. Estes profissionais ficam mais na ponta de um projeto, ou seja, com esses dados em mãos, eles irão trabalhar em um modelo, gerar gráficos a partir desse modelo desenvolver uma apresentação sólida.
+
+Então, o Engenheiro de Dados será um dos principais responsáveis principalmente nas fases iniciais de um projeto. Ele é um cara mais técnico e tem que entender bastante de infraestrutura para conseguir fazer processos rodarem em paralelo e performarem melhor.” 
+
+Importância de um Engenheiro de Dados no time de Data Science 
+Rodrigo: “Um Engenheiro de Dados está na raiz do projeto. Ele vai mapear as variáveis, a partir das demandas solicitadas pelo Cientista de Dados, e encontrar uma forma de disponibilizá-las para que todos consigam trabalhá-las da melhor forma possível. Estudos da O’Reilly, plataforma de treinamentos de TI, dizem que precisa-se de 4 Engenheiros de Dados para cada Cientista de Dados. E eu acredito muito nisso, principalmente porque essas etapas de trazer os dados e fazer a limpeza do estado bruto dele para conseguirmos trabalhar, é bastante importante nesse modelo.” 
+
+Dicas para um profissional que quer migrar para área
+Rodrigo: “Eu diria: venham com a gente (risos). Brincadeiras à parte, é uma área que necessita de novos profissionais. Percebe-se isso quando você entra no LinkedIn: há mais vagas do que profissionais capacitados para serem Engenheiros de Dados. É um número muito alto de vagas todo mês para essa carreira. 
+
+É uma área que está em constante evolução. Para se ter uma noção, muitas empresas ainda não adotaram esse mundo do Data Lake, ainda vão se adaptar. Agora imagine: se a demanda por profissionais desta área já está alta, imagine quando expandir o número de empresas.
+
+Sobre as dicas, um passo importante para quem quer migrar para a carreira em Engenheiro de Dados é se apegar aos conceitos: conceito de Big Data, o que é um Data WareHouse, o que é um Data Lake. Todos esses conceitos irão ser um diferencial do profissional, porque no momento dele aplicar em sua empresa vai ficar mais fácil de entender cada um desses processos. 
+
+Na parte de tecnologia, é importante estudar modelos de dados relacionais, dimensionais e SQL. Nas linguagens de programação, o Python já é excelente e dará uma boa base. Normalmente é a linguagem mais utilizada pelos Engenheiros de Dados. Há ferramentas usadas por nós, por exemplo, que só trabalham usando Python, como o Airflow.
+
+Engenharia de Dados é uma área incrível para quem gosta de tecnologia. Quem estudar e se dedicar bastante, com certeza terá sucesso nessa carreira.”
+
+🔵 Quer se desenvolver em Engenharia de Dados? Conheça a Awari!
+A Awari nasceu e permanece assim: pensando totalmente em transformar a vida de nossos alunos com conteúdos de valor, proporcionando uma experiência incrível que seja real e acessível. 
+
+Conheça nossos cursos de Data Science, com intensivos de Engenharia de Dados, Ciência de Dados, Machine Learning e Data Analytics. Saiba mais sobre a nossa jornada personalizada e materiais complementares feitos por especialistas no mercado.
+
+
+Não é novidade para ninguém que os Cientistas de Dados estão entre os profissionais mais cobiçados pelas empresas em todo mundo. A busca por este tipo de profissional que alia habilidades de Ciência da Computação, Estatística, Programação e Conhecimento de Negócio, raro de se encontrar especialmente no mercado brasileiro, tem levado a um aumento considerável nos salários pagos aqueles que dominam a arte da análise e dados. E isso se justifica, pois um Cientista de Dados pode trazer um valor incrível para o negócio de qualquer empresa de qualquer área de atuação.
+
+Mas para que o Cientista de Dados faça seu trabalho, há um “pequeno” detalhe: ele precisa de dados. Muitos dados! As empresas possuem esses dados, verdadeiro tesouro muitas vezes escondido em servidores, aplicações, logs, redes sociais ou mesmo dados que ainda não foram digitalizados. A grande maioria dos gestores não faz ideia do tesouro sobre o qual eles operam e que poderia ajudar a alavancar as vendas e destacar a empresa da concorrência. Mas quem vai coletar esses dados? Quem vai organizar esses dados? Quem vai implementar a infraestrutura necessária para que o Cientista de Dados possa fazer seu trabalho de forma eficiente? É exatamente aqui onde os Engenheiros de Dados entram em ação.
+
+O Engenheiro de Dados é o responsável pela criação do pipeline que transforma os dados brutos que estão nos mais variados formatos, desde bancos de dados transacionais até arquivos de texto, em um formato que permita ao Cientista de Dados começar seu trabalho.
+
+Cabe também ao Engenheiro de Dados manter este pipeline em execução para que os dados possam ser coletados no momento certo, com o nível de segurança exigido pela empresa. O trabalho do Engenheiro de dados é tão importante quanto o trabalho do Cientista de Dados e vem ganhando cada vez mais visibilidade dentro das empresas.
+
+Se você é o tipo de pessoa que gosta de construir e ajustar sistemas, a Engenharia de Dados pode ser ideal para você. Neste artigo, vamos explorar o dia a dia de um Engenheiro de Dados e discutiremos as habilidades necessárias para esse profissional.
+
+Mas afinal, o que é Engenharia de Dados?
+O campo da Ciência de Dados é incrivelmente amplo, abrangendo tudo, desde a limpeza de dados até a implantação de modelos preditivos. No entanto, é raro um único Cientista de Dados trabalhar em todos as áreas da Ciência de Dados. Os Cientistas de Dados geralmente se concentram em algumas áreas, e são complementados por uma equipe de outros Cientistas e Analistas.
+
+A Engenharia de Dados também é um campo amplo. Vejamos primeiro o que é a Engenharia de Dados e depois caminhamos através de descrições mais específicas que ilustram as funções nesta área.
+
+Um Engenheiro de Dados transforma dados em um formato útil para análise. Imagine que você é um Engenheiro de Dados que irá trabalhar em um concorrente do Uber. Seus usuários têm um aplicativo através do qual eles acessam seu serviço. Eles pedem uma corrida para um destino através do aplicativo, que é encaminhado para um motorista, que os busca e os leva para onde foi solicitado. Após a corrida, eles são cobrados e têm a opção de avaliar como o motorista dirigiu.
+
+Para manter um serviço como este, você precisa:
+
+Um aplicativo para dispositivos móveis, para usuários.
+Um aplicativo para dispositivos móveis, para motoristas.
+Um servidor que pode passar pedidos de usuários para motoristas e lidar com outros detalhes, como atualizar informações de pagamento.
+Aqui está um diagrama que ilustra esta comunicação:
+
+Pipeline
+
+Como você pode imaginar, esse tipo de sistema vai gerar enormes quantidades de dados. Você terá diferentes tipos de dados para serem armazenados:
+
+O banco de dados do seu aplicativo principal. Ele deve conter informações sobre o usuário e o motorista.
+Logs de análise de servidor:
+Registros de acesso ao servidor. Estes contêm uma linha por solicitação feita ao servidor a partir do aplicativo.
+Logs de erro do servidor. Estes contêm todos os erros do lado do servidor os quais foram gerados pelo seu aplicativo.
+Registros de análise de aplicativos:
+Registros de eventos da aplicação. Estes contêm informações sobre as ações que os usuários e os motoristas receberam no aplicativo. Por exemplo, você estava logado quando clicou em um botão ou atualizou suas informações de pagamento.
+Logs de erro da aplicação. Estes contêm informações sobre erros no aplicativo.
+Registros de corridas. Estes contêm informações sobre cada corrida para os usuários / motoristas e contêm informações sobre o status da corrida.
+Registros de Serviços ao Cliente. Estes contêm informações sobre interações com clientes por agentes de atendimento ao cliente. Podem incluir transcrições de voz e registros de e-mail.
+Digamos que um Cientista de Dados quer analisar o histórico de ação de um usuário com seu serviço e ver quais ações se correlacionam com os usuários que gastam mais. Para isso, será necessário combinar informações dos logs de acesso do servidor e dos logs de eventos do aplicativo. Será necessário:
+
+Reunir regularmente logs de análise de aplicativos de dispositivos do usuário.
+Combinar os logs da análise do aplicativo com todas as entradas de log do servidor que fazem referência ao usuário.
+Criar uma API que retorna o histórico de eventos de qualquer usuário.
+Para resolver isso, você precisará criar um pipeline que possa registrar o uso dos aplicativos móveis e logs do servidor em tempo real, analisá-los e anexá-los a um usuário específico. Em seguida, você precisará armazenar os registros analisados ​​em um banco de dados, para que possam ser facilmente consultados pela API. Você precisará configurar vários servidores em modo de balanceamento de carga para processar os logs recebidos.
+
+A maioria dos problemas que você vai encontrar serão relativos à confiabilidade dos sistemas distribuídos. Por exemplo, se você tiver milhões de dispositivos para reunir logs e demanda variável (de manhã, você recebe uma tonelada de logs, e quase nenhum à meia-noite), você precisará de um sistema que possa escalar automaticamente a contagem de servidores para cima e para baixo.
+
+Neste momento entra em cena a necessidade de ter um ambiente em nuvem, robusto e seguro, que possa processar esse grande volume de dados. Uma estrutura em nuvem, usando um provedor como a AWS (Amazon Web Services), pode ser a melhor alternativa custo/benefício. Os servidores são registrados com um balanceador de carga, e o balanceador de carga envia tráfego para eles com base em como eles estão ocupados. Isso significa que os servidores podem ser adicionados ou removidos conforme necessário.
+
+Computação em Nuvem
+
+Aproximadamente, as operações em um pipeline de dados consistem nas seguintes fases:
+
+Entrada – isso envolve a coleta de dados necessários.
+Processamento – isso envolve o processamento dos dados para obter os resultados finais desejados.
+Armazenamento – isso envolve armazenar os resultados finais para recuperação rápida.
+Acesso – você precisará habilitar uma ferramenta ou usuário para acessar os resultados finais do pipeline.
+Para um exemplo mais complexo, imagine que um Cientista de Dados quer construir um sistema que encontre todos os serviços/corridas que terminaram prematuramente devido a problemas do aplicativo ou do motorista. Uma maneira de fazer isso é olhar para o banco de dados do serviço ao cliente para ver quais corridas terminaram com problemas e analisar o cruzar o login do usuário com os dados sobre o serviço/corrida.
+
+Antes que o Cientista dos Dados possa fazer isso, ele precisa de uma maneira de combinar os logs no banco de dados de serviço ao cliente com serviços/corridas específicos. O Engenheiro de Dados, deve criar uma API que permita ao Cientista de Dados consultar todas as mensagens de serviço ao cliente relacionadas a uma determinada corrida. Para fazer isso, serás necessário:
+
+Criar um sistema que extraia dados do banco de dados e descubra informações sobre a corrida, como por exemplo, quanto tempo e se o destino correspondia à solicitação inicial do usuário.
+Combinar as estatísticas calculadas em cada corrida com informações do usuário, como nome e identificação do usuário.
+Extrair informações de erro dos logs de análise do aplicativo e do servidor pertencentes ao usuário durante o período de tempo da corrida.
+Encontrar todas as consultas de atendimento ao cliente por um usuário.
+Criar alguma heurística para combinar corridas com consultas de atendimento ao cliente.
+Armazenar os valores conforme necessário para garantir que a API seja executada rapidamente, mesmo para futuras corridas.
+Criar uma API que retorne todas as mensagens de serviço ao cliente relacionadas a uma corrida particular.
+Um Engenheiro de Dados qualificado será capaz de construir um pipeline que execute cada uma das etapas acima sempre que uma nova viagem seja adicionada. Isso garantirá que os dados atendidos pela API estejam sempre atualizados e que qualquer análise que o Cientista de Dados faça será válida. 
+
+Habilidades do Engenheiro de Dados
+Um Engenheiro de Dados precisa ser bom em:
+
+Arquitetar sistemas distribuídos
+Criar pipelines confiáveis
+Combinar fontes de dados
+Criar a arquitetura de soluções
+Colaborar com a equipe de Data Science e construir as soluções certas para essas equipes
+Observe que não mencionamos nenhuma ferramenta. Embora ferramentas como Hadoop e Spark e linguagens como Scala e Python sejam muito importantes para o Engenheiro de Dados, é importante também entender bem os conceitos e saber como construir sistemas do mundo real, além de habilidade em Cloud Computing.
+
+Embora os Engenheiros de Dados precisem ter as habilidades listadas acima, o dia a dia de um Engenheiro de Dados irá variar dependendo do tipo de empresa para a qual trabalham. Em geral, você pode classificar os Engenheiros de Dados em algumas dessas categorias:
+
+Generalista
+Um Engenheiro de Dados generalista normalmente trabalha em uma equipe pequena. Sem um Engenheiro de Dados, Cientistas e Analistas de Dados não têm nada a analisar, tornando oEngenheiro de Dados um primeiro membro crítico de uma equipe de Data Science.
+
+Quando um Engenheiro de Dados é a única pessoa focada em dados em uma empresa, eles geralmente acabam tendo de fazer mais trabalho de ponta a ponta. Por exemplo, um Engenheiro de Dados generalista pode ter que fazer tudo desde analisar a entrada dos dados até processá-los para fazer a análise final. Isso requer mais habilidade em Data Science do que a maioria dos Engenheiros de Dados. No entanto, também requer menos conhecimento de arquitetura de sistemas – pequenas equipes e empresas não têm uma tonelada de usuários, então a engenharia para escala não é tão importante. Este é um bom papel para um Cientista de Dados que deseja migrar para a Engenharia de Dados.
+
+Centrado no Pipeline
+Os Engenheiros de Dados centrados em pipeline tendem a ser necessários em empresas de médio porte que possuem necessidades complexas de Ciência de Dados. Um Engenheiro de Dados centrado em pipeline trabalhará com equipes de Cientistas de Dados para transformar dados em um formato útil para análise. Isso implica um conhecimento aprofundado de sistemas distribuídos e ciência da computação.
+
+Baseado em Banco de Dados
+Um Engenheiro de Dados centrado no banco de dados é focado em configurar e preencher bancos de dados analíticos. Isso envolve algum trabalho com pipelines, trabalho com bases de dados de ajuste para análise rápida e criação de esquemas de tabelas. Envolve também o trabalho com ETL para obter dados em Data Warehouses. Este tipo de Engenheiro de Dados geralmente é encontrado em empresas maiores com muitos Analistas de Dados que têm seus dados distribuídos em vários bancos de dados.
+
+Quer se Tornar um Engenheiro de Dados?
+Neste artigo, nós definimos o que é Engenharia de Dados e quais as habilidades necessárias para praticá-la em um alto nível. Se você está interessado em arquitetar sistemas de grande escala, ou trabalhar com enormes quantidades de dados, a Engenharia de Dados é um excelente campo de trabalho para você.
